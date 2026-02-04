@@ -54,7 +54,7 @@ Average: 0.011
 Range: [0.008, 0.035]
 
 CPU Execution Time (seconds)
-Init: 0.964
+Init: 0.214
 1. 0.096
 2. 0.089
 3. 0.091
